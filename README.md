@@ -1,3 +1,3 @@
 a simple calculator developed by using python and its framework kivy (for GUI).
-(lot of bug in scientific part of calculator) 
+(lot of bug in scientific part of this calculator) 
 So,  Still working on it....
