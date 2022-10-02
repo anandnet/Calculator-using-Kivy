@@ -7,6 +7,7 @@ from kivy.uix.modalview import ModalView
 from kivy.core.window import Window
 import re
 import numpy as np
+import pandas as pd
 
 
 class MainWindow(BoxLayout):
