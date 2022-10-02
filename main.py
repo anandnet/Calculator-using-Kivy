@@ -6,6 +6,7 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.modalview import ModalView
 from kivy.core.window import Window
 import re
+import numpy as np
 
 
 class MainWindow(BoxLayout):
